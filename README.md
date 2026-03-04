@@ -39,7 +39,6 @@ This project serves as the foundation for building a full help desk home lab env
 
 <p align="center">
 Step 1 – Download and Install Oracle VirtualBox
-
 Navigate to the Oracle VirtualBox website and download the latest version of VirtualBox (v7.1.4). Run the installer and follow the installation wizard to install VirtualBox on your host machine.: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
