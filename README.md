@@ -4,7 +4,7 @@
 This lab documents the installation of Windows Server 2022 in a virtual environment using Oracle VirtualBox. The goal of this Lab is to create a basic help desk lab environment that will be used for future Active Directory, domain configuration, and Windows 11 client integration labs.
 
 In this setup, the following tasks were completed:
-- <b>Downloaded and installed Oracle VirtualBox (v7.1.4)</b>
+- <b>Downloaded and installed Oracle VirtualBox (v7.2.6)</b>
 - <b>Downloaded Windows Server 2022 ISO (64-bit)</b>
 - <b>Downloaded Windows 11 installation media (ISO)</b>
 - <b>Created a new virtual machine configured for Windows Server 2022</b>
@@ -24,7 +24,7 @@ This project serves as the foundation for building a full help desk home lab env
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>Oracle VirtualBox (v7.1.4)</b>
+- <b>Oracle VirtualBox (v7.2.6)</b>
 - <b>Windows Server 2022 (64-bit)</b>
 - <b>Windows 11 Installation Media (ISO)</b>
 - <b>Command Prompt (CMD)</b>
@@ -39,7 +39,7 @@ This project serves as the foundation for building a full help desk home lab env
 
 <p align="center">
 Step 1 – Download and Install Oracle VirtualBox<br/><br/>
-Navigate to the Oracle VirtualBox website and download the latest version of VirtualBox (v7.1.4). Run the installer and follow the installation wizard to install VirtualBox on your host machine: <br/>
+Navigate to the Oracle VirtualBox website and download the latest version of VirtualBox (v7.2.6). Run the installer and follow the installation wizard to install VirtualBox on your host machine: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 Step 2 – Download Windows Server 2022 ISO<br/><br/>
