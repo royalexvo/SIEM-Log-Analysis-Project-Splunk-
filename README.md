@@ -41,6 +41,7 @@ This project serves as the foundation for building a full help desk home lab env
 Step 1 – Download and Install Oracle VirtualBox<br/><br/>
 Navigate to the Oracle VirtualBox website and download the latest version of VirtualBox (v7.1.4). Run the installer and follow the installation wizard to install VirtualBox on your host machine: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 Step 2 – Download Windows Server 2022 ISO<br/><br/>
 Go to the Microsoft Evaluation Center and download the Windows Server 2022 ISO (64-bit). Save the ISO file to your system so it can be used to install the server operating system inside the virtual machine: <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
