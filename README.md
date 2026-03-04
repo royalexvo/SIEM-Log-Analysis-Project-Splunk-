@@ -83,7 +83,7 @@ Open the system settings and configure the correct time zone for the server envi
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Lab Steps"/>
 <br/>
 Step 12 – Test Shutdown and Restart Commands<br/><br/>
-Open Command Prompt and test system management commands such as shutdown /i, shutdown /s, shutdown /r, and shutdown /?. These commands demonstrate different ways to shut down or restart the server using both the GUI and command line: <br/>
+Open Command Prompt and tested the system management command shutdown /i looked at other shutdown options using shutdown /?. These commands demonstrate different ways to shut down or restart the server using both the GUI and command line: <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Lab Steps"/>
 </p>
 
